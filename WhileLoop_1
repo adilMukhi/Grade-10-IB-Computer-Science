@@ -1,0 +1,4 @@
+1)  a. This is probaly because of a infinite loop, 
+        meaning the condition of the loop will always be true
+    b. By making it so that the condition turns false at some time 
+        or making the loop into a if-statement
